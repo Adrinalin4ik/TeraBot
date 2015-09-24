@@ -1,0 +1,12 @@
+C:\Users\Alex\Desktop\TeraBot\TeraBot\bin\Release\TeraBot.exe
+C:\Users\Alex\Desktop\TeraBot\TeraBot\bin\Release\TeraBot.pdb
+C:\Users\Alex\Desktop\TeraBot\TeraBot\obj\x86\Release\MainWindow.baml
+C:\Users\Alex\Desktop\TeraBot\TeraBot\obj\x86\Release\MainWindow.g.cs
+C:\Users\Alex\Desktop\TeraBot\TeraBot\obj\x86\Release\App.g.cs
+C:\Users\Alex\Desktop\TeraBot\TeraBot\obj\x86\Release\TeraBot_MarkupCompile.cache
+C:\Users\Alex\Desktop\TeraBot\TeraBot\obj\x86\Release\TeraBot.g.resources
+C:\Users\Alex\Desktop\TeraBot\TeraBot\obj\x86\Release\TeraBot.Properties.Resources.resources
+C:\Users\Alex\Desktop\TeraBot\TeraBot\obj\x86\Release\TeraBot.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\TeraBot\TeraBot\obj\x86\Release\TeraBot.exe
+C:\Users\Alex\Desktop\TeraBot\TeraBot\obj\x86\Release\TeraBot.pdb
+C:\Users\Alex\Desktop\TeraBot\TeraBot\obj\x86\Release\TeraBot.csprojResolveAssemblyReference.cache
